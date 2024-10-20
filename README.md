@@ -1,4 +1,4 @@
-# Java---Less-is-More-Game  
+# Java-Less-is-More-Game  
 ## 🚀 A Mathematics Game written in Java 
 
 Welcome reader, this is a cool project which I have made that has a lot of cool features!  
